@@ -1,4 +1,4 @@
-2]lets learn spark
+lets learn spark
 spark is fun
 we are practicing spark programs
       
